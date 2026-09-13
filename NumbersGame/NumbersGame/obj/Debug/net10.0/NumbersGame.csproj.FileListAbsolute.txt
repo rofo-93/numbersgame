@@ -1,0 +1,14 @@
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\bin\Debug\net10.0\NumbersGame.exe
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\bin\Debug\net10.0\NumbersGame.deps.json
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\bin\Debug\net10.0\NumbersGame.runtimeconfig.json
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\bin\Debug\net10.0\NumbersGame.dll
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\bin\Debug\net10.0\NumbersGame.pdb
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\NumbersGame.AssemblyInfo.cs
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\NumbersGame.dll
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\refint\NumbersGame.dll
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\NumbersGame.pdb
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\NumbersGame.genruntimeconfig.cache
+C:\Users\robin\source\repos\NumbersGame\NumbersGame\obj\Debug\net10.0\ref\NumbersGame.dll
